@@ -1,0 +1,16 @@
+.foodname
+ {
+    color: white;
+    background-color: red;
+    font-family: 'Brush Script MT', cursive;
+}
+.description {
+    color: white;
+    background-color: green;
+}
+
+.step,
+.ingredients-head {
+    color: white;
+    background-color: black;
+}
